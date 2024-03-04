@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+my name is Andrey,
+I used to study frontend and therefore I know html css and a little Java,
+now I'm learning python
 <!--
 **AustrianPolitic/AustrianPolitic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
